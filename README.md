@@ -17,8 +17,11 @@
 
  - 💻 Professional Coder 💻
 
-Hi,I am Ogun,I have been working with proglama for 2 years and I do my job with love, I have experience in Script ❌ JavaScript and some other software languages
-
+- 🔭 We Give Private Lessons On Our Discord Server: [Become A VS Code SuperHero!][discord]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Expanding Our Platform
+- ⚡ Fun fact: I Love Working And Making Videos On YouTube
 
 <img src="https://media.giphy.com/media/4epajW95youl1SecqP/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />
 
@@ -60,3 +63,4 @@ Hi,I am Ogun,I have been working with proglama for 2 years and I do my job with 
 
 [youtube]: https://www.youtube.com/channel/kobscode
 [instagram]: https://www.instagram.com/kobscode/
+[discord]: https://www.discord.gg/ankacode/
