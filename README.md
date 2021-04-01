@@ -23,7 +23,7 @@
 - 🥅 2021 Goals: Expanding Our Platform
 - ⚡ Fun fact: I Love Working And Making Videos On YouTube
 
-<img src="https://media.giphy.com/media/4epajW95youl1SecqP/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="https://media.giphy.com/media/tDo45mwvLKlMdxCMKR/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />
 
 ### Spotify Playing 🎧
 
