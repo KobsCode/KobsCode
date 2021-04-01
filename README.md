@@ -4,8 +4,6 @@
   <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Kobs%20-ff3f3f.svg?&style=for-the-badge&logo=youtube&logoColor=black"></a>
   <a href="https://instagram.com/kobscode"><img src="https://img.shields.io/badge/Kobs%20-ef00ff.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
   <a href="https://glitch.com/@kobscode"><img src="https://img.shields.io/badge/Kobs%20-ffae00.svg?&style=for-the-badge&logo=glitch&logoColor=black"></a>
-  <a href="https://glitch.com/@kobscode"><img src="https://img.shields.io/badge/Kobs%20-ffae00.svg?&style=for-the-badge&logo=gmail&logoColor=black"></a>
-
 </p>
 
 <p align="center">
