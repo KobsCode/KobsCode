@@ -52,12 +52,12 @@
 <br />
 
 <details>
-    <summary>Top Language</summary>
+    <summary>:zap: Top Language</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobsCode&show_icons=true&theme=dark&hide_border=true" width="%100" height="100%">
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>:zap: GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=KobsCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </details>
 
