@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://discord.com/users/536965289598779395"><img src="https://img.shields.io/badge/Kobs%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
+  <a href="https://discord.com/users/536965289598779395"><img src="https://img.shields.io/badge/Kobs%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/KobsCode"><img src="https://img.shields.io/badge/Kobs%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Kobs%20-1d202b.svg?&style=for-the-badge&logo=youtube&logoColor=red"></a>
-  <a href="https://instgram.com/kobscode"><img src="https://img.shields.io/badge/KobsCode%20-7289DA.svg?&style=for-the-badge&logo=instagram&logoColor=pink"></a>
+  <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Kobs%20-1d202b.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://instgram.com/kobscode"><img src="https://img.shields.io/badge/KobsCode%20-ef00ff.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <p align="center">
