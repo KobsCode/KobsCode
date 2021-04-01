@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.com/users/536965289598779395"><img src="https://img.shields.io/badge/Kobs%20-ffffff.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
+  <a href="https://discord.com/users/536965289598779395"><img src="https://img.shields.io/badge/Kobs%20-009eff.svg?&style=for-the-badge&logo=discord&logoColor=black"></a>
   <a href="https://github.com/KobsCode"><img src="https://img.shields.io/badge/Kobs%20-ffffff.svg?&style=for-the-badge&logo=github&logoColor=black"></a>
   <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Kobs%20-ff3f3f.svg?&style=for-the-badge&logo=youtube&logoColor=black"></a>
   <a href="https://instgram.com/kobscode"><img src="https://img.shields.io/badge/Kobs%20-ef00ff.svg?&style=for-the-badge&logo=instagram&logoColor=black"></a>
