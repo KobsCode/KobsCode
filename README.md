@@ -56,14 +56,14 @@
 
 <details>
     <summary>:zap: Top Language</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KobsCode&show_icons=true&theme=dark&hide_border=true" width="%100" height="100%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kobsdev.tr&show_icons=true&theme=dark&hide_border=true" width="%100" height="100%">
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=KobsCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dev.tr&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 </details>
 
 [youtube]: https://www.youtube.com/channel/kobscode
 [instagram]: https://www.instagram.com/kobscode/
-[discord]: https://www.discord.gg/ankacode/
+[discord]: https://www.discord.gg/anka/
