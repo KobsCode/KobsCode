@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/anka"><img src="https://img.shields.io/badge/Anka Code%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://discord.gg/anka"><img src="https://img.shields.io/badge/Anka Botlist%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://discord.gg/anka"><img src="https://img.shields.io/badge/Anka Gif%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Anka Code%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Anka Botlist%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.youtube.com/kobscode"><img src="https://img.shields.io/badge/Anka Gif%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
-### Hi , I Am Ogün  👋
+### Hi , I Am Mehmet  👋
 
 
 
@@ -26,9 +26,6 @@
 
 <img src="https://media.giphy.com/media/4epajW95youl1SecqP/giphy.gif" alt="codeSTACKr Spotify Playing" width="350" />
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
